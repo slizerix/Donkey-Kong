@@ -1,0 +1,13 @@
+﻿  barrels.cpp
+  board.cpp
+  donkey_kong.cpp
+  enemy.cpp
+  game_config.cpp
+  ghost.cpp
+C:\Users\user\source\repos\Dima252\donkey_kong_3\donkey_kong\game_config.cpp(20,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\source\repos\Dima252\donkey_kong_3\donkey_kong\game_config.cpp(220,21): warning C4101: 'numFile': unreferenced local variable
+  ghost_2.cpp
+  mario.cpp
+  utils.cpp
+  Generating Code...
+  donkey_kong.vcxproj -> C:\Users\user\source\repos\Dima252\donkey_kong_3\x64\Debug\donkey_kong.exe
